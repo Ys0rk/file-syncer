@@ -1,6 +1,6 @@
 # file-syncer
 File Syncer is a simple Python tool for comparing and synchronizing content between two text files, typically used for security or pentesting purposes. It compares a new file containing payloads, usernames, passwords, or a wordlist against an old file and ensures that any new content is appended to the old file. If the content already exists in the old file, it will not be added again. The tool also prints the changes in color for easy visualization.
-#Usage
+# Usage
 1. Clone the Repository (or download the script):
 git clone https://github.com/yourusername/file-syncer.git
 cd file-syncer
